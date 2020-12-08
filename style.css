@@ -1,0 +1,7 @@
+li{display:inline}
+a:link{color:black;}
+a:hover{color:rgb(106, 170, 106);}
+a:visited {color:purple;}
+
+a:hover{text-decoration:none;}
+.menu{border-bottom:1px solid rgb(0, 0, 0);}
